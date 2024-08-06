@@ -6,9 +6,9 @@ Learn more about this [Java Tutorials][java_tutorials_material].
 This repository contains all the code I wrote from the tutorials. Feel free to take a look and give me your feedback if needed.
 
 ## Intro to Java Programming - Course for Absolute Beginners
-### [Get Started][get_started]
-### [Variables and Data Types][variables_and_data_types]
-### [Basic Operations][basic_operations]
+- [Get Started][get_started]
+- [Variables and Data Types][variables_and_data_types]
+- [Basic Operations][basic_operations]
 
 [freeCodeCamp_youtube_channel]: https://www.youtube.com/@freecodecamp
 
