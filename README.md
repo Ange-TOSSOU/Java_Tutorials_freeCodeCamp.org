@@ -9,6 +9,7 @@ This repository contains all the code I wrote from the tutorials. Feel free to t
 - [Get Started][get_started]
 - [Variables and Data Types][variables_and_data_types]
 - [Basic Operations][basic_operations]
+- [Input and Scanners][input_and_scanners]
 
 [freeCodeCamp_youtube_channel]: https://www.youtube.com/@freecodecamp
 
@@ -17,4 +18,5 @@ This repository contains all the code I wrote from the tutorials. Feel free to t
 [get_started]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/get_started
 [variables_and_data_types]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/variables_and_data_types
 [basic_operations]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/basic_operations
+[input_and_scanners]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/input_and_scanners
 
