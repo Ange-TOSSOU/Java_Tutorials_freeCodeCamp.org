@@ -26,6 +26,8 @@ public class Main {
 		System.out.println(z + " / " + y + " = " + result6);
 		
 		System.out.println(2 + " ** " + 10 + " = " + result7);
+		
+		System.out.println("56 % 5 = " + (56 % 5));
 	}
 
 }
