@@ -10,6 +10,7 @@ This repository contains all the code I wrote from the tutorials. Feel free to t
 - [Variables and Data Types][variables_and_data_types]
 - [Basic Operations][basic_operations]
 - [Input and Scanners][input_and_scanners]
+- [Conditions and Booleans][conditions_and_booleans]
 
 [freeCodeCamp_youtube_channel]: https://www.youtube.com/@freecodecamp
 
@@ -19,4 +20,5 @@ This repository contains all the code I wrote from the tutorials. Feel free to t
 [variables_and_data_types]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/variables_and_data_types
 [basic_operations]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/basic_operations
 [input_and_scanners]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/input_and_scanners
+[conditions_and_booleans]: https://github.com/Ange-TOSSOU/Java_Tutorials_freeCodeCamp.org/tree/main/conditions_and_booleans
 
